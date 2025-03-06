@@ -10,6 +10,12 @@ But so far there seems to be no reliable reproduction and indeed the error is
 not consistent. On some websites it's reproducible more often than on the
 others.
 
+<details>
+ <summary>Demo</summary>
+
+https://github.com/user-attachments/assets/1596bf2b-a976-42af-ba05-50c6ad8dab07
+</details>
+
 ## How to reproduce
 
 1. Clone this repository
